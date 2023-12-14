@@ -14,4 +14,4 @@ An interpreted language is a programming language that executes instructions wit
 # What is concurrent language ?
 Concurrent programming languages are designed to facilitate and manage the simultaneous execution of tasks. They support structures and mechanisms that allow tasks to run in parallel, often without affecting each other's state or performance.
 
-# What is 
+# What is sequential language ?
