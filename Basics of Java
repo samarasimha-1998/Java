@@ -1,6 +1,6 @@
 # What is JAVA?
 1. Java is a high-level, class-based object oriented programming language
-2. it is a compiled language and not an interpreted language 
+2. it is a compiled and interpreted language 
 3. it is a concurrent language and not a sequential language 
 4. it is a dynamically typed language and not a statically typed language 
 5. it is a garbage collected language and not a manually managed language
