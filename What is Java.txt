@@ -1,0 +1,23 @@
+# What is JAVA?
+1. Java is a high-level, class-based object oriented programming language
+2. it is a compiled and interpreted language 
+3. it is a concurrent language and not a sequential language 
+4. it is a dynamically typed language and not a statically typed language 
+5. it is a garbage collected language and not a manually managed language
+
+# What is compiled language ?
+A compiled language is a programming language that uses a compiler to translate source code into machine code. The code can then be directly executed by the computer's CPU.
+
+# What is compiler ?
+A compiler is a complex piece of software whose job is to convert source code to machine understandable code ( or binary code ) in one go
+
+# What is interpreted language ?
+An interpreted language is a programming language that executes instructions without compiling a program into machine code.
+
+# What is interpreter?
+An interpreter is a software program written to translate source code to machine code but it does that line by line
+
+# What is concurrent language ?
+Concurrent programming languages are designed to facilitate and manage the simultaneous execution of tasks. They support structures and mechanisms that allow tasks to run in parallel, often without affecting each other's state or performance.
+
+# What is sequential language ?
